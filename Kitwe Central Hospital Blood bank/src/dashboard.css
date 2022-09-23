@@ -1,0 +1,23 @@
+.time {
+    color: rgb(11, 94, 215);
+    font-size: medium;
+    font-weight: bold;
+}
+
+.side-tab {
+    min-width: 200px;
+    margin-bottom: 50px
+}
+
+.side-tab-content {
+    min-width: 400px;
+    max-width: 1400px;
+}
+
+.ml {
+    margin-right: 10px;
+}
+
+.title {
+    font: bolder;
+}
